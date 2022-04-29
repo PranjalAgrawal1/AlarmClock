@@ -44,7 +44,7 @@ Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks a
 # Git Clone
 To use this repository in your local system-
 
-<a href="https://github.com/PranjalAgrawal1/AlarmClock.git">https://github.com/PranjalAgrawal1/AlarmClock.git </a>
+<a href="https://github.com/PranjalAgrawal1/AlarmClock.git" target="_blank">https://github.com/PranjalAgrawal1/AlarmClock.git </a>
 
 or run this command in your GitHub CLI
 
@@ -53,6 +53,6 @@ or run this command in your GitHub CLI
 
 
 
-# <a href = "https://pranjalagrawal1.github.io/AlarmClock"> Demo / Hosted on - </a>
+# <a href = "https://pranjalagrawal1.github.io/AlarmClock" target="_blank"> Demo / Hosted on - </a>
 https://pranjalagrawal1.github.io/AlarmClock/
 
