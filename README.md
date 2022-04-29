@@ -1,0 +1,58 @@
+# AlarmClock
+
+<li>This is a repository for Alarm Clock Developed using Vanilla JavaScript, HTML, CSS.</li>
+<br>
+<li> It is developed with interesting features to provide users a digital yet real-life experience.</li>
+<br>
+
+
+# Problem statement
+Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks allowed for Javascript (you can use any css framework like Bootstrap).
+<br>
+
+
+# Features
+
+- <b>Clock face</b>
+   - Clock showing the current time (seconds,mins,hrs should change as time changes).
+<br>
+  
+
+- <b>Set Alarm</b> 
+  - Provide input boxes to set an alarm.
+  - Once the sets the time and click “Set Alarm” button, add that alarm to the alarms list below.
+  - When the alarm goes of just use JS alert function to alert in the browser.
+<br>
+ 
+
+- <b>Alarms list</b> 
+  - Display a list of all the alarms set by user
+<br>
+  
+  
+- <b> Temporary Enable/Disable </b>
+  - Temporary Enable/Disposable Toggle Switch for each Alarm.
+<br>
+ 
+ 
+- <b>Delete alarm</b> 
+  - For each alarm give a delete button to delete the alarm.
+  - When the user deletes an alarm make sure it “does not alerts the user”.
+<br>
+
+
+# Git Clone
+To use this repository in your local system-
+
+<a href="https://github.com/PranjalAgrawal1/AlarmClock.git">https://github.com/PranjalAgrawal1/AlarmClock.git </a>
+
+or run this command in your GitHub CLI
+
+###### `gh repo clone PranjalAgrawal1/AlarmClock`
+<br>
+
+
+
+# <a href = "https://pranjalagrawal1.github.io/AlarmClock"> Demo / Hosted on - </a>
+https://pranjalagrawal1.github.io/AlarmClock/
+
