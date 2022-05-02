@@ -13,7 +13,7 @@ Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks a
 
 # Features
 
-- <b>Clock face</b>
+- <b>Clock</b>
    - Clock showing the current time (seconds,mins,hrs should change as time changes).
 <br>
   
