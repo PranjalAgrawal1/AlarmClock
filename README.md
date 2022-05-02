@@ -1,6 +1,6 @@
 # AlarmClock
 
-<li>This is a repository for Alarm Clock Developed using Vanilla JavaScript, HTML, CSS.</li>
+<li>This is a repository for Alarm Clock Developed using HTML, CSS, Vanilla JavaScript.</li>
 <br>
 <li> It is developed with interesting features to provide users a digital yet real-life experience.</li>
 <br>
