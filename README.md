@@ -24,11 +24,6 @@ Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks a
   - When the alarm goes of just use JS alert function to alert in the browser.
 <br>
  
-
-- <b>Alarms list</b> 
-  - Display a list of all the alarms set by user
-<br>
-  
   
 - <b> Temporary Enable/Disable </b>
   - Temporary Enable/Disposable Toggle Switch for each Alarm.
